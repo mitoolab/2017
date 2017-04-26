@@ -162,7 +162,7 @@
     - 반응형 웹사이트에서는 불필요한 이미지는 아에 다운로드 안하기 (no hidden)
 
 ### 8. 브라우져가 선호하는 이미지 타입
-1. WebP : Chrome, Oper
+1. WebP : Chrome, Opera
 2. jpeg XR : internet Explorer 9+
 3. JPEG 2000 : Safari
 - WebP 는 JPEG에 비해 ~ 50% 파일 크기 감소
